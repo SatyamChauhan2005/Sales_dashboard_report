@@ -3,7 +3,7 @@
 Welcome to my **Power BI Dashboard Project**, where I combined data from **Sales**, **Employee**, and **Department** tables to create a fully interactive and insightful dashboard. This project is designed to provide a 360° view of performance across countries, employees, and departments.
 # Dashboard 
 <a href="https://github.com/SatyamChauhan2005/Sales_dashboard_report/blob/main/Sales_dashboardPNG.png"/a> 
-![Dashboard Screenshot](https://github.com/SatyamChauhan2005/Sales_dashboard_report/blob/main/Sales_dashboardPNG.png)
+![Dashboard Screenshot](https://github.com/SatyamChauhan2005/Sales_dashboard_report/blob/main/Dashboard_img.png)
 
 ---
 
